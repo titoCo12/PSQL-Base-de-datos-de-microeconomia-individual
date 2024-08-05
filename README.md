@@ -4,4 +4,4 @@ Implica anotar tus gastos e ingresos con sus respectivas descripciones, montos y
 
 ![fc987bbed56081655bcccf204941df40](https://github.com/user-attachments/assets/202dcce6-7d51-44b8-8169-da9a86b542d5)
 
-![picsou-scrooge](https://github.com/user-attachments/assets/57353101-1fca-45a5-9e1e-d00bb23095ff)
+
