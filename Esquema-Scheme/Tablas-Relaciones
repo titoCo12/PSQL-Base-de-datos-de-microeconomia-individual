@@ -1,6 +1,7 @@
 CREATE TABLE ingresos (
  idIngreso SERIAL PRIMARY KEY,
  fechaHoraIngreso TIMESTAMP,
+ descripcionIngreso VARCHAR(255),
  ingreso DECIMAL(12,2)
 );
 
@@ -8,6 +9,7 @@ CREATE TABLE ingresos (
 CREATE TABLE gastos (
  idGasto SERIAL PRIMARY KEY,
  fechaHoraGasto TIMESTAMP,
+ descripcionGasto VARCHAR(255),
  gasto DECIMAL(12,2)
 );
  
