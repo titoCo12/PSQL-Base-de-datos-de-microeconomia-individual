@@ -1,1 +1,11 @@
+CREATE TABLE ingresos (
+ idIngreso SERIAL PRIMARY KEY,
+ fechaHoraIngreso TIMESTAMP,
+ ingreso DECIMAL (10,2)
+);
 
+-- Por comodidad aplico 10 digitos y 2 decimales pero es algo que pueden modificar sin problema, siempre y cuando tengan en cuenta que pueda cubrir los numeros que manejen
+
+
+CREATE TABLE gastos (
+ 
