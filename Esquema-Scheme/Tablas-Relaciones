@@ -1,3 +1,6 @@
+-- Por comodidad aplico 12 digitos y 2 decimales pero es algo que pueden modificar sin problema, siempre y cuando tengan en cuenta que pueda cubrir los numeros que manejen
+
+
 CREATE TABLE ingresos (
  idIngreso SERIAL PRIMARY KEY,
  fechaHoraIngreso TIMESTAMP,
@@ -22,4 +25,3 @@ CREATE TABLE total (
  fechaHoraUltimoCambio TIMESTAMP
 );
 
--- Por comodidad aplico 12 digitos y 2 decimales pero es algo que pueden modificar sin problema, siempre y cuando tengan en cuenta que pueda cubrir los numeros que manejen
