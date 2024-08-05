@@ -1,4 +1,4 @@
-La idea es tener lo básico para el asesoramiento económico propio y simple, con esta base de datos cada persona puede manejar varios aspectos de su económia a un nivel mas cotidiano. 
+La idea es tener lo básico para el asesoramiento económico propio y simple. Con esta base de datos cada persona puede manejar varios aspectos de su económia a un nivel mas cotidiano. 
 
 Implica anotar tus gastos e ingresos con sus respectivas descripciones, montos y tiempos; Tener un numero de balance total que se actualice constantemente; Poder aplicar funciones que respondan preguntas mas especificas, entre otros.
 
