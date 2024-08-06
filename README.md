@@ -6,6 +6,6 @@
 <img src="https://i.pinimg.com/originals/fc/98/7b/fc987bbed56081655bcccf204941df40.gif"/>
 </p>
 
-### Obviamente SQL no es la mejor opcion a la hora de manejar pocas instancias y de un solo usuario, este repositorio es mas bien un "experimento" en proceso. Busco dejar ejemplos para personas que quieran aprender a usarlo, desarrollar mis habilidades aun mas, y dejar algun tipo de rastro sobre mis conocimientos.
+### Obviamente SQL no es la mejor opcion a la hora de manejar pocas instancias y de un solo usuario, este repositorio es mas bien un "experimento" en proceso. Busco poner ejemplos para personas que quieran aprender a usarlo, desarrollar mis habilidades aun mas, y dejar algun tipo de rastro sobre mis conocimientos.
 
 
